@@ -2,7 +2,7 @@
 
 A beautiful, modern, offline-first volume calculator with a cyberpunk/neon aesthetic. Built as a single HTML file — no build tools, no backend, just open and calculate.
 
-![Preview](vol.png) <!-- Add a screenshot here later -->
+![Preview](vol.png) 
 
 ## ✨ Features
 
@@ -20,7 +20,7 @@ A beautiful, modern, offline-first volume calculator with a cyberpunk/neon aesth
 2. Open it in any modern browser (Chrome, Firefox, Edge, Safari)
 3. Start calculating!
 
-**Or just click here:** [Live Demo](https://pdragonlabs.github.io/neon-volume/) *(add your GitHub Pages link after deploying)*
+**Or just click here:** [Live Demo](https://pdragonlabs.github.io/neon-volume/)  
 
 ## 📸 Screenshots
 
